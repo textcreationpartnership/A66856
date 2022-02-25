@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to all Friends that be travelling towards the holy city and rest that is in the everlasting life, that they may not over-charge themselves, nor burden themselves in their journey. With a visitation of pure love to all such as have err'd in their hearts from the holy commandment, that to the Lord, who is very gracious and merciful, with all their hearts they may be turned, and so be by him saved.</title>
+            <author>Wollrich, Humphry, 1633?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66856</idno>
+            <idno type="STC">Wing W3291</idno>
+            <idno type="STC">ESTC R224071</idno>
+            <idno type="EEBO-CITATION">99834637</idno>
+            <idno type="PROQUEST">99834637</idno>
+            <idno type="VID">39141</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1821:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to all Friends that be travelling towards the holy city and rest that is in the everlasting life, that they may not over-charge themselves, nor burden themselves in their journey. With a visitation of pure love to all such as have err'd in their hearts from the holy commandment, that to the Lord, who is very gracious and merciful, with all their hearts they may be turned, and so be by him saved.</title>
+                  <author>Wollrich, Humphry, 1633?-1707.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: The 2nd moneth, 1674. Humphry Wollrich.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:39141:1" rendition="simple:additions"/>
+            <head>AN EPISTLE To all FRIENDS That be Travelling towards the Holy CITY and REST that is in the Everlaſting Life, that they may not Over-charge themſelves, nor Burden themſelves in their Journey.</head>
+            <head type="sub">WITH A Viſitation of Pure Love To all ſuch as have Err'd in their Hearts from the Holy Commandment, that to the Lord, who is is very Gracious and Merciful, with all their Hearts they may be Turned, and ſo be by him Saved.</head>
+            <p>DEar Friends, that have a Love to the Lord in your Hearts, that would enter in at the Straight Gate and Narrow Way, that is holy and undefiled forever; but its End is Peace and Everlaſting Life. They that will ſo fight the good Fight of Faith, like the good Souldiers of Chriſt, as to take hold of Eternal Life, they muſt not Over-charge their Hearts and Minds
+<pb facs="tcp:39141:2"/>
+               <pb n="1" facs="tcp:39141:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:39141:3"/>with the Affairs and Things of this Life; which if they do, they cannot pleaſe their Captain, that chuſeth them to be his Souldiers: They muſt not Entangle themſelves nor Load themſelves with the many Things; for that will hinder them in the Way and Work of God, which Way is Holy, and Work Honourable and Glorious.</p>
+            <p>So, dear Friends, this is the Work of God in all we do, or put our Hands unto, to believe in him, whom God hath ſent a Light in<g ref="char:EOLhyphen"/>to our Hearts, to lead out of all that which would darken your Un<g ref="char:EOLhyphen"/>derſtandings, and ſhut the pure Eye, with which the Lord may be ſeen going before you, making your Way perfect and plain. This is he that is not of this World, that leads man out of the E<g ref="char:EOLhyphen"/>vil of the World, in the VVay of Righteouſneſs; not to do his own Will, or ſeek his own Glory; for he that ſeeks the Glory of him that ſent him, and doth his Will, he ſanctifies all that ſtand therein: Him ye may truſt, and believe in, and commit your Way unto, that he may bring it to paſs; for the ſame is true, and there is no Unrighteouſneſs with him: and ſo doing all your things in him (who is meek, and hath Salvation) they are done in the Name and Power of the Lord, which the Family of God and Houſhold of Faith know to be their Houſe eternal, to work all their Works in; and ſo they be done to the Praiſe and Glory of the Heavenly Father, and in the Victory over the VVorld and its Spirit, and ſuch in VVell-doing ſhall not be weary, nor faint in their Minds; for their Faith ſtands in the Power, and the Power keeps open the Eye of their Underſtandings, and they ſee him that is true, with whom there is no Unrighteouſneſs; And he is their Tower and ſtrong Hold in the Day of Trouble, their Shield and their ex<g ref="char:EOLhyphen"/>ceeding great Reward: And this is that Inviſible and Holy One, who is full of Grace and Truth, whoſe Day of Glory <hi>Moſes</hi> and <hi>Abraham</hi> ſaw; and it made them willing to deny themſelves, and the Pleaſures of Sin, that are but for a ſeaſon, their own Country, and all <hi>Egypt</hi>'s Treaſures and Glory: And this is he whom we in our Day and Age have ſeen, or elſe we ſhould have been weary by reaſon of Unreaſonable Men, their Cruel Laws and Precepts they have preſcribed, to weary us out, and make us deny our Juſt and Holy Principle, in which we be eſtabliſhed as Mount <hi>Sion,</hi> that cannot be removed, and taught of the Lord in the Spirit and in
+<pb n="3" facs="tcp:39141:3"/>the Truth, and in the Beauty of Holineſs to worſhip the Lord, and not after the Precepts and Commands of men, by whom we have deeply ſuffered, who have been ſtirred up by the Hirelings and Deceivers of the Nation, that have turned about like the Wind, and have been given to change with the many Changes of Government; and they that do ſo, ſerve not the Lord Jeſus, but their own Bellies: But He is become our Salvation, our Light, our Life and Glory; and as we in him abide, he makes us Triumph in every place; and he leads us into the ſtrong City and Country, that hath Foundations, whoſe Builder and Maker is God; and we therein do Bleſs, and Laud, and Praiſe him that lives forever.</p>
+            <p>And they that will ſo run the Race that is ſet before them, as to obtain the Price, even this Inheritance that never fades away, and Kingdom that cannot be ſhaken, muſt caſt off every Weight, and the Sin that doth ſo eaſily beſet them; mark that, the Sin that ea<g ref="char:EOLhyphen"/>ſily beſets, that muſt be caſt off alſo, and every thing that brings a Vail or a Burden on God's Spiritual and Holy Day; that ſo the Juſt may be Ruler in you all, and as a Morning without a Cloud; or elſe ye cannot enter in at the Everlaſting Door, and Gate of the Heavenly City and Holy Place, there to miniſter before the Lord in the Holy Robe and Garment of Righteouſneſs, to do the Work of his Sanctuary and Tabernacle, that he hath ſet up and pitched amongſt us: And this is that Gate where be the pleaſant Things, and City, into which <hi>Job,</hi> whoſe Glory was freſh in him, with his Garment of Righteouſneſs, that was to him as a Robe and Dia<g ref="char:EOLhyphen"/>dem, entered, where the Rock poured him out Rivers of Oyl: For, Friends, where the Righteous dwell and reign, there is great Glory, and the Secret of God is upon their Tabernacle; there is Oyl and a Treaſure to be deſired, which the Wicked One will conſume and devour, if he be not watched againſt: But the Way to attain theſe things will be too ſtraight and narrow for them who do not take up a Daily Croſs, and walk in the Foot-ſteps of the Flocks of the Companions, caſting off the Weights and the Bur<g ref="char:EOLhyphen"/>dens, and the many things, which in the true Light that ſhines in the Heart, be ſeen to hinder the Eye to guide man's Feet out of all the Sin, that darkens him, into the Way of Peace; the Way and Everlaſting Door will not be lifted up nor exalted in them, but be rather ſhut againſt them, who be in the Bond of Iniquity,
+<pb n="4" facs="tcp:39141:4"/>and in that which brings the Vail and Gall of Bitterneſs over them; and ſuch had need to Repent, and wait for his Judgments to put away their Sins and Iniquities from their Tabernacles, that hath put them far from the Lord, and made them to wander in a barren Wilderneſs, where no plain Way is, and in a Land of Fear, where no Peace is, like <hi>Cain,</hi> to whom the Lord has no Reſpect; for he was not of that Righteous One, as Righteous <hi>Abel</hi> was, in which Righteouſneſs he had the Living Record in Heaven, and Witneſs, <hi>That he pleaſed God.</hi> So to ſuch I ſay, Before ye pray, put away your Idols, and put down the Altars of <hi>Baal,</hi> and the Images of the Sun, that ye may know the Golden Altar, which the Apoſtles had right unto, thereupon to miniſter before the Lord; for it is raiſed and builded in the Fear and in the Name of the Lord. So Friends, waſh ye in Innocency, that ye may compaſs this Al<g ref="char:EOLhyphen"/>tar of the Lord with your holy Offerings; for all that be round a<g ref="char:EOLhyphen"/>bout him, do bring their Preſents to him; and they that be afar off and in the out-moſt parts, be afraid of his Tokens; for he is a great King, in whoſe Hands be all the Corners of the Earth, and above all Gods is he that ought to be feared. So let the holy Hands be lifted up without Wrath or Doubting, and the Head uncovered, and lifted up without Spot; and the Offerings and Sacrifices being ſeaſoned with Salt, and ſalted with Fire of the Word, being clean without the Blemiſhes and without the Corruption, which the Salt and the Fire taketh away, and being brought and offered in a clean Veſſel, the Lord is well pleaſed, and ſmelleth a ſweet Savour; and then the lifting up of the Hands, being waſhed in Innocency, becomes as a Morning or Evening Sacrifice acceptable to him: For, Friends, As the Prayers and Sacrifices of the Wicked are A<g ref="char:EOLhyphen"/>bomination, even ſo the Prayers of the Righteous and the Cry of the Innocent is his Delight; and therefore Chriſt ſpake a Parable concerning the Unjuſt Judge, that feared not God, nor regarded Man, nor doing of Judgment or Equity, and yet becauſe of the Woman-Importuning him, leſt by continual coming ſhe ſhould weary him, he would avenge her of her Adverſary; and ſaith he, <hi>Shall not God avenge his own Elect, that cry to him Day and Night? yea, he will avenge them ſpeedily:</hi> And this was Chriſt's End in ſpeaking this Parable, That men ſhould pray even continu<g ref="char:EOLhyphen"/>ally without fainting. And again, by the ſame Spirit it is ſaid,
+<pb n="5" facs="tcp:39141:4"/>
+               <hi>I will pour clean Water on them that be athirſty, yea, when the Poor and the Needy ſeek Water in a dry and thirſty Place, where there is none, I the Lord will open a Spring to them; I the God of</hi> Jacob <hi>will not forſake them; but will cauſe my River, whoſe Streams be pure as Chryſtal, and do make glad and refreſh the Weary, to run in d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Pl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces, and upon all Hills and Mountains; there ſhall be Ri<g ref="char:EOLhyphen"/>vers and Streams, and like the Waters of</hi> Jordan <hi>in time of Harveſt, over-flowing all its Banks.</hi> So to the Afflicted and Grieved in Spi<g ref="char:EOLhyphen"/>rit for want of the Lord, and Power over the Deſtroyer of their Vine and of their Peace, I ſay, Do not quench the Spirit of Pray<g ref="char:EOLhyphen"/>er and Supplication, when in the leaſt Mea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure and in the Will of God it moves, although but with Sighs and Groans, that in words cannot yet be uttered; for it alwayes maketh Interceſſion, and teacheth us to call God <hi>Our Father,</hi> and ſubmit to his Heavenly Will in all we deſire and pray for; and all that do not thus call up<g ref="char:EOLhyphen"/>on him, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eek him, they ſeek amiſs, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o they obtain not; for ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch would con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ume it on their Luſts: But the Prayer in the Faith goeth through the dark Clouds, and is of a ſaving Kind and Nature to all that be ſick and weary of their Sins; it is like the Sword of <hi>Saul</hi> or <hi>Jonathan,</hi> that returned not empty from the Blood of the Slain and the Far of the Mighty; or the holy Hands of <hi>Moſes,</hi> that were ſtay'd up by <hi>Aaron</hi> and <hi>Hur</hi> in the ſame thing, whereby <hi>Amalek</hi> was ſmitten, and <hi>Iſrael</hi> in the cro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and crooked Wayes to ſmite the Weak and the Feeble; and he feared not God. So let all that be in Trouble call upon God in that Day, and he will redeem and deliver you out of the Hands of all your Ene<g ref="char:EOLhyphen"/>mies, that have been too ſtrong for you, that ye may Prai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e him in the Land of the Living, and in the Glorious Liberty the Sons of God and his Daughters ſtand in: <hi>But without Faith it is impoſſible to pleaſe God,</hi> that is the Word, that in the Power of the End<g ref="char:EOLhyphen"/>leſs Life ari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth to you; But to the Evil Doers, that are not wil<g ref="char:EOLhyphen"/>ling to be reproved for their Iniquity (when committed) reform<g ref="char:EOLhyphen"/>ed or gained from it, but preceed from one Evil to a wor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, by covering their Tranſgreſſion and hiding their Sin, like <hi>Adam,</hi> or like <hi>Saul,</hi> in the Stubbornneſs and Rebellion which is as Witch<g ref="char:EOLhyphen"/>craft, by hiding it as a ſweet Morſel in their Boſom; and although the Witneſs of God hath turned their Meat in their
+<pb n="6" facs="tcp:39141:5"/>Bellies, yet in the Pride, and for want of Humility and Self De<g ref="char:EOLhyphen"/>nyal, that alwayes goes before Honour, will they not loſe their ſweet VVords, nor Bread of Deceit that was ſweet to them; and ſuch do not declare their Integrity as <hi>David</hi> did, who ſaid, <hi>I will confeſs my Sin, and be ſorry for my Sin:</hi> And they that hide their Sin ſhall not proſper, nor have Peace with God in that State, or true Joy and Delight in his People, to whom the Reproofs of Life and Smitings of the Righteous were as pretious Balm: And the Apoſtle ſaith, <hi>Confeſs your Faults one to another, and pray one for another, that ye may be healed or reſtored:</hi> So here is the Spirit of <hi>Corah,</hi> of <hi>Cain</hi> and <hi>Saul</hi> judged, and the Troubler of <hi>Iſrael,</hi> even the Accurſed hid Thing in the Tent (that was goodly in the ſight of the Evil Eye) digged up and eaſt out. So Friends, if any have done amiſs, come to Plainneſs, and to <hi>David</hi>'s Mind, and <hi>Peter</hi>'s Mind, that ye may be reſtored, and kiſs the Son, and bow to him in the VVay of his Righteous Judgments, <hi>which</hi> David <hi>lo<g ref="char:EOLhyphen"/>ved more then fine Gold, and roſe at Midnight to Praiſe God for.</hi>
+            </p>
+            <p>So dear Friends, to whom my Exhortation is, in Bowels of pure Love and Pitty, deſiring you in the Name of the Lord, to be re<g ref="char:EOLhyphen"/>conciled to God, by putting away the Evil that brings the Curſe to your Houſe, and ſo ſeparates the Soul from God and is bleſſed Life, out of which, as out of a great Deep, it ſhould be water<g ref="char:EOLhyphen"/>ed and receive its Life, leſt the Lord be angry with and depart from you, and ſo your Houſe become deſolate, as over-thrown by Strangers, and ye periſh from the VVay, and the Day of your Vi<g ref="char:EOLhyphen"/>ſitation paſs over you, the Clouds return after the Rain, and your Sun ſet in a perpetual Night of Deſolation.</p>
+            <p>So Friends, we had all need to be watchful and diligent in our holy Calling and VVork, leſt we, even we, who by him were quickened when we were dead, dye again a ſecond time, and ſo be plucked up by the Roots, and cut down, as they that cumber the holy Ground, that we may be a living People to his living Praiſe, who would not have any to be ſloathful in Buſineſs, or idle in his Market-place and Vine-yard; but to be fervent in Spirit, ſerving God: And here none laboureth for the periſhing Food, but for that which endures to Eternal Life; for he ſerves the Lord Chriſt, the Bread of God, that ſtrengthens his Heart; and he ſeeks the Kingdom and Righteouſneſs firſt, and the Heavenly Treaſure
+<pb n="7" facs="tcp:39141:5"/>before all other things, the One thing needful; and with <hi>Mary</hi> chuſeth the better part: and ſo the Redeemed of the Lord do not labour in vain, or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pend their Strength for nought; for they wit<g ref="char:EOLhyphen"/>neſs all other things added unto them (as the Lord hath pro<g ref="char:EOLhyphen"/>miſed) and every good Word of his doth he bring to paſs, <hi>for he that clotheth the Lili<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and heareth the Ravens when they cry, he feeds and ſatisfies them; and the Eyes of all the Living, that look to him and wait upon him, do not fail;</hi> for he enlightens them and keeps them alive in Famine, &amp; from the Scourge of the Tongue, even the Viper's Tongue and Noiſom Beaſt, that would devour them in his ſecret Pavilion and Tent of the Lord, that is round about them pitched, in that doth he hide them till the Wrath of Man be over, and the remainder of Wrath will he reſtrain, and it ſhall praiſe him, and be to the Praiſe of his Grace and holy Power that ſaveth them: <hi>But the Eyes of the Wicked ſhall fail; and they ſhall be cut off that watch for Iniquity, and ſecretly cry,</hi> Ha, ha, ſo would we have it; <hi>their Expectation ſhall periſh as their own Durg, and as the <g ref="char:V">Ʋ</g>ntimely Birth of a Woman, &amp; their Hope ſhall be as the giving up of the Ghoſt; But the Righteous ſhall rejoyce in the Lord, and glory in his Strength, and praiſe him in his Sanctuary, and in the goodly Tents of</hi> Jacob, <hi>and Dwelling-place of</hi> Iſrael <hi>forever and forever.</hi> Even ſo be it, <hi>Amen.</hi>
+            </p>
+            <p>O Friends, do you all examine your ſelves and in the True Light, the juſt Meaſure and Ballance of the Sanctuary, which the Lord loves and delights in; for his Mind is in it, and it is one with him: Do ye try your ſelves whether Chriſt be formed in you your Hope and Glory, and ſo brought forth from under the Clouds and deep Waters, that have been round about him; and whether ye be in the Faith, even in that living Faith that ſtandeth in the living Pow<g ref="char:EOLhyphen"/>er of God, and gives perfect Victory and Dominion over all the VVorld and the Prince thereof; If ye be of the Houſhold of Faith, <hi>then in the Power of God's Endleſs Life your Houſe, in the Heavenly Place that is in Chriſt;</hi> we witneſs it ſo, as ſaid the Ho<g ref="char:EOLhyphen"/>ly Seed in former Ages, <hi>Thou h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt been our Dwelling-Place in all Ge<g ref="char:EOLhyphen"/>nerations;</hi> and he was made <hi>more to them then their Neceſſary Food, and more precious then the Golden W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dge of</hi> Ophir; and ſaid they, <hi>We have a ſtrong City, whoſe Wells be Salvation and Cates Praiſe;</hi> and here was the <hi>River of God</hi> and <hi>Wells of Salvation, whoſe Springs and Streams made them glad:</hi> And Friends, can ye in the Faith that
+<pb n="8" facs="tcp:39141:6"/>is true and living, that was once delivered or given to the Saints, let down your Buckets, every one of you, into theſe Wells that be within the Walls of this Holy City of God, and draw of the Waters of Life, that the true Believer hath in himſelf, ſpringing up, and keeping the Soul in Eternal Life; but if it be not ſo well with any, but Deadneſs and Leanne's is come upon them, and t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Clouds be returned after the Rain, let ſuch examine themſelves, <hi>What the Cauſe is,</hi> and <hi>What it is that hath ſhut up their Sp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng and W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, that the Water doth not run and iſſue out to make them glad,</hi> as formerly; and if the Lord in his own Light be not lifted up as <hi>Moſes</hi> lifted up the <hi>Serpent</hi> in the <hi>Wilderneſs</hi> over all in his own Houſe and Temple, then Examine and try your own Hearts, <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>to what vain and periſhing thing hath the Mind and Heart been lifted up or turned aſide unto,</hi> and <hi>what Idol of Abomination that makes the Soul'd ſolate, and to want its former M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcus, hath been prefer<g ref="char:EOLhyphen"/>red before him,</hi> even the Lord, who did in this our Age and Day work Wonders for us, as ever he did for <hi>Iſrael</hi> of old in the Land of <hi>Egypt,</hi> and in the Tabernacles of <hi>Ham,</hi> in bringing us out of the Houſe of Bondage, and Houſe wherein all that be there be yet the Servants of Sin, even many of them <hi>loving and pleading for the Hard Maſter, the Cruel Lord and Strange King,</hi> whom they ſerve. It was the Lord, I ſay, who in Mercy brake <hi>Iſrael</hi>'s Bands, and he in Mercy hath broken our Bands and Fetters, and the heavy Yoak of Sin, that was of the Devil, and loaded us and oppreſſed us; and as he after a wonderful manner broak the Yoak of <hi>Iſrael</hi>'s Oppreſ<g ref="char:EOLhyphen"/>ſors in the dayes of <hi>Mid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an,</hi> when he mightily oppreſſed them, ſo he in tender Mercies hath taken the Yoak from off us, and burſt the Clouds, and Bands and Chains of Darkneſs, and from off our Hearts hath he rent them by the <hi>Riſing of the Day of his Power,</hi> and the <hi>Exaltation of his holy Mountain,</hi> that enter'd and were drawn over us in the <hi>ſin</hi> and <hi>tranſgreſſion,</hi> theſe has he done away in Chriſt Jeſus, and made us to go upright: And Friends, this is true in him, and truly witneſſed by us, as we in him do abide; and we ought to give all Diligence to ſearch and examine our ſelves, <hi>Where we be, whether we have a Name to live and Profeſſion only,</hi> or <hi>in the holy and divine Nature, out of which we can do nothing well-pleaſing;</hi> neither can we be made Partakers of the <hi>exceeding Great</hi> and <hi>Pretious Pro<g ref="char:EOLhyphen"/>miſes,</hi> but as in him we abide to whom they be all made ſure.</p>
+            <pb n="9" facs="tcp:39141:6"/>
+            <p>And ſo after all this <hi>Grace</hi> and <hi>Mercy,</hi> ſhew'd of the <hi>living Father of Mercy</hi> unto us in this his unſpeakable Gift, <hi>Chriſt Jeſus,</hi> we had need to be vigilant in walking worthy of his <hi>Merties,</hi> in rendring to the Lord as from him we have receiv'd, even our Souls and Spirits to him, and all our Members a living Offering and Sacrifice, and Servants to Righteou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs, which is but reaſonable; ſeeing when we had ſold our <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves for nought, and being filled with our own De<g ref="char:EOLhyphen"/>vices, and held faſt with the Cords of our own Sin, then he with a Frice redeemed us; and this the time of our Mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cry was the time of his Love; and when there was no Interceſſor or Dayes man, then did his <hi>own holy Arm bring Salvation,</hi> and <hi>get him the Victory.</hi> So we be not our own any longer, or to pleaſe our ſelves, but the Lord.</p>
+            <p>And all you that have known the Reſting place, which remains forever becauſe it is not polluted, and the Bed of Love that is green, and ſo truly <hi>honourable</hi> and <hi>und filed;</hi> you that have known the freſh and large Paſture, and the gathering of the true Shepherd, and his puttings forth into it, who hath brought you nigh the Shep<g ref="char:EOLhyphen"/>herd's Tent-prize ye this his Mercy; and be not like <hi>Iſrael</hi> of old, who were unmindful of their Pock't at begat them, and did lightly eſteem God their Saviour, who had fed them to the full with the Bread of Heaven, but they waxed ſat, &amp; kicked againſt him; more<g ref="char:EOLhyphen"/>over, he brought them unto a good Land, wherein was no want of any good thing that was in the Earth to poſſeſs; Houſes they build<g ref="char:EOLhyphen"/>ed not; Vine-yards and Olive-yards, and Wells and Fountains of Waters they planted not and digged not; and ſo for want of re<g ref="char:EOLhyphen"/>membring the Lord their God, who brought them up out of the Land of <hi>Egypt,</hi> and Houſe of Bondage and Slavery, who remem<g ref="char:EOLhyphen"/>bred them in their low Condition, when they cryed to him in their Afflictions he helped them; <hi>for his Mercies endure forever.</hi> And ſo, is not this our State, whom the Lord hath brought out of ſpiri<g ref="char:EOLhyphen"/>tual <hi>Sodom</hi> and <hi>Egypt,</hi> where the Witneſs was ſlain in us, and where the Vine moſt dear, and the pleaſant Plant could not grow nor proſ<g ref="char:EOLhyphen"/>per, by reaſon of the cruel Lord and ſtrange King, that ruled over us before we knew the <hi>King of Saints</hi> (who bound the Kings and Nobles in Fetters of Iron) to be the <hi>Lord our Righteouſneſs,</hi> whoſe Service is perfect Freedom, and Work Honourable and Glorious; and they that are in his work, and are become his Workmanſhip, can ſay, <hi>His Praiſe endures forever?</hi> But was not <hi>Iſrael</hi> for this
+<pb n="10" facs="tcp:39141:7"/>his Ingratitude diſinherited, and plucked up by the Roots, from the good Land which the Lord had promiſed and ſworn to their Fa<g ref="char:EOLhyphen"/>thers, if they took heed to his Commandments, his Laws &amp; Statutes, that he ſet before them, they ſhould inherit forever. But even as he did to the Houſe of <hi>Ely</hi> (the Prieſt of the Lord) for their Diſobedi<g ref="char:EOLhyphen"/>ence to him, ſo did he to them whom he had ſaid, <hi>ſhould walk be<g ref="char:EOLhyphen"/>fore him forever,</hi> afterwards ſaid, <hi>Now be it far from me; for I will do a thing to the Houſe of</hi> Ely, <hi>the Ears that hear thereof ſhall tingle: For them that honour me, I will honour; but them that honour not me ſhall be lightly eſteemed:</hi> And was not the Word of the Lord (ſpo<g ref="char:EOLhyphen"/>ken by <hi>Samuel</hi>) juſtly fulfilled on them, <hi>That they ſhould be cut off<g ref="char:punc">▪</g> and ſuch as remained of the Houſe of</hi> Ely <hi>ſhoul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come and crouch for a piece of Bread?</hi> So Friends, we have been by the Lord brought into a good and ſpiritual Land, and heavenly Place, which is the Glory of all Lands and Places; and with the piritual Rock and Bread of Heaven have we been water'd and fed; and the Vine-yard we planted not, and Wells we digged not, have ſprung up to us, and we rejoyced over it greatly, as <hi>Iſrael</hi> of old rejoyced over their Well in the Wilderneſs, ſaying, <hi>Spring up, O Well; ſing ye to it:</hi> And thus was it with them in the Day of their Eſpouſals; then their Hearts were glad becauſe of the Lord, whoſe Right-Hand was exalted, and whoſe Holy Arm had got him the Vi<g ref="char:EOLhyphen"/>ctory (in bringing them out of <hi>Egypt,</hi> and through the <hi>Red Sea</hi>) and a perpetual Name of Praiſe, of Fame and of Glory, as it is at this Day. But let all dear Friends and People conſider, but eſpecially thoſe whoſe Hearts be not ſtedfaſt with the Lord, who deal faiſly in his Covenant, and ſecretly turn back in their Hearts into ſpiritual <hi>Egypt</hi> and <hi>Sodom,</hi> that black Sink and Sea of Iniquity: I ſay, let us all conſider, that have known the Lord and fear before him, by their Example, who after all theſe Signs, and Wonders, and Mighty Hand, and Out-ſtretched Arm, and Great Judgment ſhew'd to them in the <hi>Red Sea</hi> upon their Enemies and Perſecutors, who ſaid, <hi>Let us purſue them, and over-take them, and ſatisfie our ſelves upon them:</hi> But after this, they not remembring theſe his Mercies, but ſoon for<g ref="char:EOLhyphen"/>got his Word; they waited not for his Counſel, but ran a Whoring after their own Inventions, and lifted up their Eyes to the Idols of the People that knew not God, which made <hi>Moſes</hi> (that Holy and Juſt Man) to ſay, <hi>Do ye thus Requite the Lord, O fooliſh People and
+<pb n="11" facs="tcp:39141:7"/>unwiſe? Is not he thy Father?</hi> Even ſo it may be ſaid to many that have known the Truth and Way of he Living God, and were glad when they had found it, and walked therein for a ſeaſon, who have been greatly benefited by it every way, whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt in it they ſtood; but as it was in the Apoſtles dayes with ſome, even ſo have they turn<g ref="char:EOLhyphen"/>ed again, like the Dog, and like the Sow once waſhed to wallow in the Mire: And be not theſe the fooliſh People and unwiſe, even like the fooliſh <hi>Galatians, that were bewitched from the Spirit,</hi> who do thus requite the Lord, who hath long ſpared them, and waited on them to do them good, and to be gracious to them, expecting his Long-ſuffering (that they have not duely prized) ſhould have led them to Repentance, and they have turned, and not have dyed, but have been made Veſſels of Mercy meet for the Bowels of Love and Mercy; For, O Friends, how great are the tender Mercies and the Loving-kindneſs of the Living Lord, that he doth daily extend towards his living Children, even in and through that true Light, that out o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Darkneſs hath ſhined in their own Hearts, and doth daily open to them, that obey it and follow in the Love to it, in the Self<g ref="char:EOLhyphen"/>denyal, which this Light calls for in all that come to God through it; it opens to them the Boſome of the Father, that <hi>Abraham</hi> and all the Holy Followers of God, that walk in Love, as dear Children after him do lie in and giveth them the Light of him, and the Knowledge of the Glory of him; and as he over-came <hi>A<g ref="char:EOLhyphen"/>braham</hi>'s Heart and <hi>Moſes</hi>'s Heart and Mind, to follow him that is inviſible, with the Eye open, looking ſtraight on before them, being atop and above all the Amazements, Fears &amp; Terrors of the Wicked, his Snares and Allurements being all ſeen; and ye know, the Net being ſeen, the End and Deſire of the Fowler and cunning Hunter is all in vain. So dear Friends and Brethren, in the Name of the Lord, all keep your Eyes open to him, from whence comes your Salvati<g ref="char:EOLhyphen"/>on, leſt ye be taken in the Pit of the W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cked; for if the Night comes, and Darkneſs blinds the Eye (by which <hi>Moſes</hi> in his Day, and we in our Day do ſee him that is inviſible) we wander then in Crooked Wayes and By-Pathes, wherein at beſt we do but warm at the Light of the Fire that our own hands have made and kindled; then is Darkneſs put for Light, and Light for Darkneſs: But the la<g ref="char:EOLhyphen"/>ſting and perfect Peace of God to keep the Heart, is not known, as they do know it whoſe Hearts and Minds be ſtay'd on the Lord, out of, and clean above the World, and things that therein are.</p>
+            <pb n="12" facs="tcp:39141:8"/>
+            <p>So dear Friends in every place, that call on the Name of the Lord, though but with Sighs and Groans that in words cannot be utter'd nor declared; ſtir up your ſelves, and let the Loins of the pure Mind, that ſeeks nothing but the Living Lord, be girded up, and ſtand, ſtand on your holy Watch continually, that the head and chief Corner-Stone ye may ſee lifted up above all t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Billows, Tempta<g ref="char:EOLhyphen"/>tions and Raging Waves of the Sea. So the Lord and his holy Power be amongſt you all, in and over you all, <hi>Amen.</hi>
+            </p>
+            <p>So Friends, in the Heavenly Power and Seed feel and feed on the Height, Depth, Length and Breadth of the Love of the Everlaſting God,</p>
+            <p>I reſt in Peace with the Lord (whom I do love above all other things) your Brother, praying in the holy Spirit (where the true Faith is known, that ſtands in the Power) to my God and your God, your Father and my Father, to ſhew Mercy and Loving-kindneſs always to your Souls with his Heavenly Riches and Trea<g ref="char:EOLhyphen"/>ſures, &amp; ſpiritual Bleſſings in Chriſt Jeſus; which is, and forever ſhall be the Reward, Lot, Inheritance and pleaſant Portion of all that love Equity and Righteouſneſs, ſo as to hate every Falſe Way, De<g ref="char:EOLhyphen"/>ceit, and the thing that is Evil in the Sight of the Lord.</p>
+            <closer>
+               <date>The 2d Moneth, 1674.</date>
+               <signed>Humphry Wollrich.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:39141:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
